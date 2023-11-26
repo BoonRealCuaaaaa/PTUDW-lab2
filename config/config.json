@@ -25,7 +25,8 @@
         }
       }
     },
-    "username": "ttbhanh",
+    "production": {
+      "username": "ttbhanh",
       "password": "5u89vX7AhNbF2hmIFrOitKoTcAA0HV3N",
       "database": "tuandb",
       "host": "dpg-clfb5a7jc5ks73e5n3n0-a.oregon-postgres.render.com",
@@ -36,4 +37,5 @@
           "rejectUnauthorized": false
         }
       }
+    }
   }
